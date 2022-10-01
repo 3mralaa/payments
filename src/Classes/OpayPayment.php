@@ -19,7 +19,7 @@ class OpayPayment implements PaymentInterface
     private $opay_public_key;
     private $opay_merchant_id;
     private $opay_country_code;
-    private $opay_base_url
+    private $opay_base_url;
     private $verify_route_name;
 
 
